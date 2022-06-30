@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MedsMinder</string>
+    
+    <string-array name="quantity_units">
+        <item>mg</item>
+        <item>ml</item>
+        <item>g</item>
+        <item>oz</item>
+        <item>tablet</item>
+    </string-array>
+
+    <string-array name="colors_list">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>Navy</item>
+        <item>Magenta</item>
+        <item>Brown</item>
+        <item>Black</item>
+        <item>Purple</item>
+    </string-array>
+</resources>
